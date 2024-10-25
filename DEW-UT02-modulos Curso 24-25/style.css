@@ -1,0 +1,16 @@
+body
+{
+  background-color: #10161c; 
+  color: white;
+}
+div {
+  padding: 2px;
+}
+table {
+  border-collapse: collapse;
+  border: 1px solid black
+}
+td,th{
+  border: 1px solid black
+}
+
